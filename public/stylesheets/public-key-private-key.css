@@ -31,19 +31,19 @@ input {
 }
 
 .card-success {
-  background: rgb(216, 240, 223);
+  background: rgb(255, 186, 0);
 }
 
 .card-error {
-  background: rgb(220, 220, 250);
+  background: rgb(255, 0, 0);
 }
 
 .sig-success {
-  background: rgb(223, 240, 216);
+  background: rgb(135, 231, 136);
 }
 
 .card-error {
-  background: rgb(250, 220, 220);
+  background: rgb(255, 0, 0);
 }
 
 .github-ribbon {
