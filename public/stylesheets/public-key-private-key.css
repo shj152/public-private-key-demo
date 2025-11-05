@@ -53,3 +53,25 @@ input {
   border: 0;
   z-index: 20000;
 }
+/* === Custom Tab Styling === */
+.nav-tabs {
+  background-color: #141C38; /* dark indigo/navy background */
+  border-bottom: none;
+}
+
+.nav-tabs .nav-link {
+  color: #FFBA00; /* bright gold text */
+  font-weight: bold;
+  border: none;
+  background-color: transparent;
+}
+
+.nav-tabs .nav-link:hover {
+  color: #ffffff; /* white on hover */
+}
+
+.nav-tabs .nav-link.active {
+  color: #ffffff;
+  background-color: #141C38; /* match background, remove light highlight */
+  border: none;
+  border-bottom: 2px solid #FFBA00; /* gold underline for active tab */
