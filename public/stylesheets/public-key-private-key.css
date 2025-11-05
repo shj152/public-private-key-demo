@@ -84,3 +84,7 @@ nav.navbar {
   background-color: #141C38 !important;
   border-bottom: 2px solid #FFBA00; /* gold underline for active tab */
 }
+/* === Page Background === */
+body {
+  background-color: #f5f5f5 !important; /* soft light gray background */
+}
